@@ -1,0 +1,118 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+
+.body {
+    background-color: rgb(131, 206, 226);
+}
+
+h1 {
+    text-align: center;
+}
+
+.pos-sticky {
+    position: sticky;
+    top: 0;
+    background-color: rgb(21, 105, 129);
+}
+
+.blue-link {
+    color: rgb(18, 8, 1);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.blue-link:hover {
+    color: rgb(7, 23, 94);
+}
+
+.blue-link1 {
+    color: rgb(9, 9, 9);
+    font-size: 30px;
+    font-weight: bolder;
+
+
+}
+
+.blue-link1:hover {
+    color: rgb(1, 3, 18);
+    font-weight: bolder;
+
+}
+
+.section1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow-x: scroll;
+    box-shadow: 0px 0px 10px rgba(18, 9, 89, 0.5);
+
+}
+
+.section1::-webkit-scrollbar {
+    display: none;
+}
+
+
+
+
+.home {
+    box-shadow: 0px 0px 10px rgba(18, 9, 89, 0.5);
+    height: 430px;
+    text-align: center;
+    padding-top: 140px;
+    font-weight: bolder;
+    margin-top: -30px;
+
+}
+
+.text {
+    font-size: 80px;
+}
+
+.code {
+    text-align: center;
+    color: rgb(103, 185, 166);
+    font-size: 32px;
+
+}
+
+.rating {
+    color: white;
+    width: 500px;
+    height: fit-content;
+    margin: 10px;
+    padding: 5px;
+    box-shadow: 0px 0px 10px rgba(18, 9, 89, 0.5);
+}
+
+.image1 {
+    height: 300px;
+    width: 300px;
+
+}
+
+.rating1 {
+    color: white;
+    width: 100%;
+    height: fit-content;
+    margin: 10px;
+    padding: 5px;
+    box-shadow: 0px 0px 10px rgba(18, 9, 89, 0.5);
+}
+
+.image2 {
+    width: 100%;
+    height: 400px;
+}
+
+.section2 {
+    height: 600px;
+    align-items: center;
+    overflow-y: scroll;
+    box-shadow: 0px 0px 10px rgba(18, 9, 89, 0.5);
+
+}
+
+.section2::-webkit-scrollbar {
+    display: none;
+}
